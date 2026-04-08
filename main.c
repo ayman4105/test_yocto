@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-intmain() {
+int main() {
     printf("===========================================\n");
     printf("        Hello Ayman\n");
     printf("===========================================\n");
